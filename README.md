@@ -1,2 +1,2 @@
 # C-challenges-ECE26
-Note : always there is a better solution so #GOOGLE IT
+Note : There is always a better solution so #GOOGLE IT
